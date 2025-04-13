@@ -96,6 +96,34 @@ If you encounter any issues:
 - Try running the test function first to verify access
 - If the script times out, try running it again - it will continue from where it left off
 
+## Privacy Considerations
+
+This tool processes your Google Drive and Photos data. Please note:
+
+1. **Data Processing**
+   - The tool only processes files you own
+   - Your email address is used internally for file ownership verification
+   - No personal data is stored or transmitted outside of Google's services
+   - All processing happens within your Google account
+
+2. **Output Data**
+   - Generated CSV files contain only file metadata
+   - No file contents are accessed or stored
+   - File links are only accessible to you
+   - Location data from photos is included only if present in the original metadata
+
+3. **Data Storage**
+   - All data is stored in Google Drive
+   - No external servers or services are used
+   - You maintain full control over all generated files
+
+4. **Permissions**
+   - The tool requires access to:
+     - View your Google Drive files
+     - View your Google Photos
+     - Create spreadsheets and CSV files
+   - No additional permissions are required
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

@@ -41,4 +41,8 @@ When contributing to this project:
 
 ## Transparency
 
-This document is maintained to ensure transparency about AI involvement in the project. It will be updated as new AI tools are used or as the project evolves. 
+This document is maintained to ensure transparency about AI involvement in the project. It will be updated as new AI tools are used or as the project evolves.
+
+## Privacy Notice
+
+This project uses AI tools for development assistance only. No user data or personal information is shared with or processed by AI tools. All AI-generated content is reviewed and validated by human developers before being committed to the repository. 
