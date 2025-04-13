@@ -2,6 +2,16 @@
 
 A Google Apps Script tool to extract metadata from files in your Google Drive and Google Photos, saving the information to CSV files.
 
+## Topics
+
+- google-drive
+- google-photos
+- metadata
+- google-apps-script
+- ai-assisted
+- csv-export
+- file-analysis
+
 ## Features
 
 - Extracts metadata from all files you own in Google Drive
@@ -92,4 +102,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. See CONTRIBUTING.md for guidelines. 
+Contributions are welcome! Please feel free to submit a Pull Request. See CONTRIBUTING.md for guidelines.
+
+## AI Contributions
+
+This project has been developed with assistance from AI tools. For detailed information about AI-generated content and contributions, please see [AI.md](AI.md). 
